@@ -1,6 +1,7 @@
-# Final-Year
-#Hand Gesture Recognition for
-Immersive Gaming
+# Hand Gesture Recognition for Immersive gaming                           
+
+
+
 
 Over the recent years, Computer Vision has started to play a significant role in Human 
 Computer Interaction. With the development of information technology in our society, we can 
